@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nimra-marrium!
+- 👀 I'm interested in Full Stack Development, UI/UX, and graphics!
+- 🌱 I'm currently learning both front-end and back-end development. I've already learned HTML, CSS, Bootstrap, and I'm currently working on PHP and MySQL.
+- 💞️ I’m looking to collaborate on projects starting from basic to large-scale endeavors
+- 📫 You can reach me via email at nimramarrium02@gmail.com or connect with me on LinkedIn under the name Nimra Marrium.
